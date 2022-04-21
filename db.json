@@ -1,0 +1,37 @@
+{
+    "users":[
+      {
+        "id": 1,
+        "usename": "Caroline",
+        "age": 17,
+        "addree": "cjouanny",
+        "gender": "Female",
+        "branch": "Mechanical"
+      },
+
+      {
+        "id": 2,
+        "usename": "Ckjkjne",
+        "age": 37,
+        "addree": "cjouanny",
+        "gender": "Female",
+        "branch": "Electrical"
+      },
+       {
+      "id": 3,
+      "usename": "LLGre",
+      "age": 17,
+      "addree": "cjouannyjkl",
+      "gender": "Female",
+      "department": "civil"
+    },
+     {
+      "id": 4,
+      "usename": "Caroline",
+      "age": 17,
+      "addree": "cjouanny",
+      "gender": "Female",
+      "branch": "Mechanical"
+    }
+    ]
+}
